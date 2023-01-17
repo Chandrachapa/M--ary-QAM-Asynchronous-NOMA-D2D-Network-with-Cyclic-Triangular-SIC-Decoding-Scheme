@@ -8,4 +8,5 @@ The complexity of successive interference cancellation at the receiver's end is 
 
 Keywords: Asynchronous non-orthogonal multiple access, cyclic triangular successive interference cancellation, device-to-device communication network, decoding complexity, energy consumption, optimization, and reliability. 
 
-![anoma graphical abstract (1)](https://user-images.githubusercontent.com/42689768/212272179-dfb0a17f-4ca2-41c2-824a-9ec311b0eb3a.png)
+![anoma graphical abstract](https://user-images.githubusercontent.com/42689768/212961786-edf0fe48-8204-4d83-85bd-e94a148b4d26.jpg)
+
